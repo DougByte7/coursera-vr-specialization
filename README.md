@@ -2,7 +2,7 @@
 A dedicated PC VR headset such as Oculus Quest 2.
 
 # Description
-This is a demo scene of what I want to turn into an Escape Room game. 
+This Unity project is a demo scene of what I want to turn into an Escape Room game. 
 You will be standing inside an ancient fantasy temple/dungeon.
 
 # Instructions 
