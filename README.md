@@ -8,4 +8,5 @@ You will be standing inside an ancient fantasy temple/dungeon.
 3. Runing th scene
 
 	a. Within Oculus AirLink just hit play at the scene it will load in VR
+
 	b. With other headsets or VirtualDesktop (oculus app) run SteamVR and then hit play at the scene
